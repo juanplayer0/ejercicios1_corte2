@@ -1,0 +1,6 @@
+/home/jplayer0/tarea_2_corte/build/CMakeFiles/parking_system.dir
+/home/jplayer0/tarea_2_corte/build/CMakeFiles/armstrong.dir
+/home/jplayer0/tarea_2_corte/build/CMakeFiles/hamming.dir
+/home/jplayer0/tarea_2_corte/build/CMakeFiles/planetas.dir
+/home/jplayer0/tarea_2_corte/build/CMakeFiles/edit_cache.dir
+/home/jplayer0/tarea_2_corte/build/CMakeFiles/rebuild_cache.dir

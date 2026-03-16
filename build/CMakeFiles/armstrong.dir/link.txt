@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/armstrong.dir/armstrong_numbers.cpp.o -o armstrong 
